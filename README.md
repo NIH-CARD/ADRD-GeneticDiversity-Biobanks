@@ -2,7 +2,7 @@
 
 `CARD ❤️ Open Science 😍`
 
-DOI: pending
+[![DOI](https://zenodo.org/badge/845745951.svg)](https://zenodo.org/doi/10.5281/zenodo.13363465)
 
 **Last Updated:** August 2024
 
