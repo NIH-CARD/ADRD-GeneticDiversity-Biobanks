@@ -34,7 +34,7 @@ THIS_REPO
 
  **Notebook** | **Description**                                                                                         |
 --------------|---------------------------------------------------------------------------------------------------------|
-00_UKB | Fetch cohorts, ancestry info, remove related individuals, filter non-WGS, combine pVCFs, normalize VCFs, annotate, allele freqs, APOE genotyping, phenotype data |
+00_UKB | Fetch cohorts, ancestry info, remove related individuals, filter non-WGS, combine pVCFs, normalize VCFs, annotate, allele freqs, APOE genotyping, phenotype data, resilience/protective variants |
 00_AMP_PD    | Check variants, APOE genotyping, define cases/controls by ancestry, demographic data, resilience/protective variants |
 00_AllofUs   | Create cohorts (AD, Dementia, Control), gene characterization, Genotools prep and application, allele freqs, APOE genotyping, ancestry definition, demographic data, resilience/protective variants |
 00_ADSP      | Check variants, allele freqs, calculate missingness, APOE genotyping, demographic data, resilience/protective variants |
