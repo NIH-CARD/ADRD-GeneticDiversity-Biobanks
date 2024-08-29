@@ -26,7 +26,8 @@ THIS_REPO
     ├── 00_UKB.ipynb
     ├── 00_AMP_PD.ipynb
     ├── 00_AllofUs.ipynb
-    └── 00_ADSP.ipynb
+    ├── 00_ADSP.ipynb
+    └── 00_Visualization.ipynb
 ```
 
 ### Analysis Notebooks
@@ -38,3 +39,4 @@ THIS_REPO
 00_AMP_PD    | Check variants, APOE genotyping, define cases/controls by ancestry, demographic data, resilience/protective variants |
 00_AllofUs   | Create cohorts (AD, Dementia, Control), gene characterization, Genotools prep and application, allele freqs, APOE genotyping, ancestry definition, demographic data, resilience/protective variants |
 00_ADSP      | Check variants, allele freqs, calculate missingness, APOE genotyping, demographic data, resilience/protective variants |
+00_Visualization      | Visualizing the results of protective/resilience variants using a heatmap |
