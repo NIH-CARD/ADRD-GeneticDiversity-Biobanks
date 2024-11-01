@@ -7,7 +7,7 @@
 **Last Updated:** November 2024
 
 ## Summary
-This is the online repository for the article titled **"Biobank-scale characterization of Alzheimer’s disease and related dementias across diverse ancestries identifies risk, protective and resilient genetic variation linked to disease etiology"**. This study aims to conduct genetic characterization of key genes associated with dementia across different ancestry populations using the largest biobank-scale datasets, including All of Us, UK Biobank, ADSP, AMP-PD, and 100KGP. We also assessed 21 previously reported protective and resilient variants among all *APOE* carriers across all ancestries and datasets.
+This is the online repository for the article titled **" Biobank-scale characterization of Alzheimer’s disease and related dementias identifies potential disease-causing variants, risk factors, and genetic modifiers across diverse ancestries"**. This study aims to conduct genetic characterization of key genes associated with dementia across different ancestry populations using the largest biobank-scale datasets, including All of Us, UK Biobank, ADSP, AMP-PD, and 100KGP. We also assessed 21 previously reported protective and resilient variants among all *APOE* carriers across all ancestries and datasets.
 
 Pre-print link: pending
 
