@@ -41,6 +41,6 @@ THIS_REPO
 00_AMP_PD    | Check variants, APOE genotyping, define cases/controls by ancestry, demographic data, resilience/protective variants |
 00_AllofUs   | Create cohorts (AD, Dementia, Control), gene characterization, Genotools prep and application, allele freqs, APOE genotyping, ancestry definition, demographic data, resilience/protective variants |
 00_ADSP      | Check variants, allele freqs, calculate missingness, APOE genotyping, demographic data, resilience/protective variants |
-01_Visualization      | Visualizing the results of protective/resilience variants using a heatmap |
+01_Visualization      | visualization, including: heatmaps, barplots for APOE genotypes, mutation sites on protein structures, beta values using Upset plots, and PCA plots |
 02_Regression_analysis.ipynb      | Using logistic regression to analyze the protective and conditional models and create covariate files for r2 and interaction models |
 03_R2_and_Interaction_models.R      | Linear regression models adjusted by APOE status, sex, age, and PCs as well as interaction models between APOE status and specific variants  |
