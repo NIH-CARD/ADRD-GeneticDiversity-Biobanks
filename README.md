@@ -13,6 +13,7 @@ If you use this repository or find it helpful for your research, please cite the
 
 > Biobank-scale characterization of Alzheimer’s disease and related dementias identifies potential disease-causing variants, risk factors, and genetic modifiers across diverse ancestries (Khani et al., 2024)
 >> Manuscript DOI: 10.1101/2024.11.03.24313587
+>>
 >>  GitHub DOI: 10.5281/zenodo.13363465
 
 ### Data Statement 
