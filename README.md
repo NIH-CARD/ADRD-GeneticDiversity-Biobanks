@@ -1,5 +1,4 @@
-# Biobank-scale characterization of Alzheimer’s disease and related dementias identifies potential disease-causing variants, risk factors, and genetic modifiers across diverse ancestries
-
+# Biobank-scale genetic characterization of Alzheimer’s disease and related dementias across diverse ancestries
 `CARD ❤️ Open Science 😍`
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13363465.svg)](https://doi.org/10.5281/zenodo.13363465)
